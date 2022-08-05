@@ -12,7 +12,7 @@
 
 Hi,I'm Joemre,Fullstack Developer from Turkey
 🔬 I am currently training for Fullstack Developer
-I love to write code and I try to improve myself every day.
+- I love to write code and I try to improve myself every day.
 - 🌱 I’m currently learning Python, JavaScript, HTML, CSS
 
 - 📫 How to reach me emreozdemir4073@gmail.com
