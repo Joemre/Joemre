@@ -1,4 +1,3 @@
-@@ -1,7 +1,7 @@
 <h1 align="center">
         <a href="#">
           <img src="/img/result.gif">
@@ -10,7 +9,6 @@
       </h1>
       <h5 align="center">
               <code>
-- 👋 Hi, I’m @Joemre
 - 🌱 I’m currently learning Python, JavaScript, UI-UX Design
 - 📫 How to reach me emreozdemir4073@gmail.com
 - Languages and Tools:
