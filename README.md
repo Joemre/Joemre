@@ -1,3 +1,15 @@
+@@ -1,7 +1,7 @@
+<h1 align="center">
+        <a href="#">
+          <img src="/img/result.gif">
+        </a>
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Joemre....;Welcome+to+my+page!&center=true&size=30">
+  </a>
+      </h1>
+      <h5 align="center">
+              <code>
 - 👋 Hi, I’m @Joemre
 - 🌱 I’m currently learning Python, JavaScript, UI-UX Design
 - 📫 How to reach me emreozdemir4073@gmail.com
